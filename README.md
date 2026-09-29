@@ -1,1 +1,1 @@
-# Shell basics
+# alu-shell - shell scripts for basics and permissions
